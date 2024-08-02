@@ -1,0 +1,14 @@
+#Git
+.git
+.gitignore
+
+#Docker
+.docker
+#Python
+app/__pychace__/
+app/*/__pychace__/
+app/*/*/*/__pychace__/
+.env/
+.venv/
+.myvenv/
+venv/
